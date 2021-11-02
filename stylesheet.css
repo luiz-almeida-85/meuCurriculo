@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h2,
+h3,
+p {
+  padding-top: 10px;
+}
+div {
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+}
+
+.perfil {
+  background-color: rgba(173, 206, 243, 0.938);
+  text-align: center;
+}
+
+.resumo {
+  background-color: rgb(230, 228, 228);
+  text-align: center;
+}
+
+.button {
+  color: white;
+  text-align: center;
+  border-radius: 3px;
+  text-decoration: none;
+}
+.site {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  border-radius: 3px;
+  text-decoration: none;
+}
+
+img {
+  border-radius: 80%;
+  width: 200px;
+  height: 200px;
+  margin-top: 10px;
+}
+h2 {
+  color: rgb(36, 14, 161);
+}
+
+hr {
+  background-color: rgb(187, 187, 233);
+  height: 3px;
+}
+
+h3 {
+  color: rgb(202, 130, 15);
+}
+#GITHUB {
+  background-color: rgb(85, 81, 81);
+}
+
+#LINKEDIN {
+  background-color: blue;
+}
+#site {
+  background-color: rgb(25, 25, 26);
+}
